@@ -6,5 +6,5 @@ Monocyte function plays a central role in human health and mapping the genetic d
 [Preprint](https://www.medrxiv.org/content/10.64898/2026.05.08.26352736v1)
 
 **Overview of repository**
-* Monocyte cytokine secretion following innate immune stimulation. Contains R script and source data to reproduce analysis and figures (Figures 1-3) exploring cytokine secretion in monocytes in response to LPS and IFNγ stimulation, and the relationship between cytokine secretion and RNA expression.
+* Monocyte cytokine secretion following innate immune stimulation. Contains R script (cytokine_induction.R) and source data to reproduce analysis and figures (Figures 1-3) exploring cytokine secretion in monocytes in response to LPS and IFNγ stimulation, and the relationship between cytokine secretion and RNA expression.
 * Genetic determinants of cytokine secretion in stimulated monocytes. Contains R script (GWAS.R) and data to illustrate analysis (Figure 4) to perform multivariate (MANOVA) and univariate GWAS of cytokine secretion, fine-mapping of genetic loci associated with cytokine secretion and colocalisation with human disease/traits.
